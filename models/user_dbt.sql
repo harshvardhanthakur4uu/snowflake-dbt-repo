@@ -1,0 +1,1 @@
+Select * from DB_ECOMM.ECOMM_SCH.ECOMM
